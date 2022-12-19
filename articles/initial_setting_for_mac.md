@@ -3,7 +3,7 @@ title: "Mac購入時に最低限やっておきたい初期設定"
 emoji: "🛠️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["mac", "m1"]
-published: false
+published: true
 ---
 
 Mac を買い替えた際にやっておきたい初期設定を忘備録としてまとめていきます．
